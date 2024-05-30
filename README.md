@@ -36,7 +36,7 @@ I store the `attachments` in a file called `logo`. I can use these images in the
 
 <i style="font-size: 10px; color: #DFDFDF;">(Screenshot from Airtable Grid view of an 'attachment' field')</i>
 
-<img src="assets/airtable-gallery.png" style="border:1px solid #DFDFDF; padding:3px; border-radius: 10px;" width="300" alt="Airtable Gallery View">
+<img src="assets/airtable-gallery.png" style="border:2px solid #DFDFDF !important; padding:3px !important; border-radius: 10px !important;" width="300" alt="Airtable Gallery View">
 
 <i style="font-size: 10px; color: #DFDFDF;">(Screenshot from Airtable Gallery using the attachment field.')</i>
 
@@ -44,5 +44,5 @@ I store the `attachments` in a file called `logo`. I can use these images in the
 This site!? :) Expected us is code. But. It does other stuff. Like pages. So hosting static content is not that different from what a CDN does.
 
 Since public repos are free, I don't really care who can see the files. For this project, I set up
-a different repo because if this works as I hope, I will be drop-in blocks of images into different
-folders.
+a different `repo` because if this works as I hope, I will be able drop-in blocks of images into different
+folders. Each of my projects will have a simple script that can migrate AirTable logos to the repo.
