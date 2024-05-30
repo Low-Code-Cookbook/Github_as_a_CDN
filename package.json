@@ -1,0 +1,29 @@
+{
+  "name": "github_as_a_cdn",
+  "version": "1.0.0",
+  "description": "Low-code recipe for using Airtable + Github + TwicPics to build a CDN.",
+  "main": "index.js",
+  "dependencies": {
+    "airtable": "^0.12.2",
+    "async": "^3.2.5",
+    "axios": "^1.6.8",
+    "@octokit/rest": "^20.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Low-Code-Cookbook/Github_as_a_CDN.git"
+  },
+  "keywords": [
+    "CDN"
+  ],
+  "author": "Stephan Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Low-Code-Cookbook/Github_as_a_CDN/issues"
+  },
+  "homepage": "https://github.com/Low-Code-Cookbook/Github_as_a_CDN#readme"
+}
